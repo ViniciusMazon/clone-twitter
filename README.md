@@ -2,7 +2,7 @@
 
 Um clone do feed do Twitter, super responsivo.
 
-
+[![demo twitter clone](readme/twitter-thumb.png)](https://youtu.be/4ozP1vyW6mM "demo twitter clone")
 
 
 Desenvolvido seguindo a aula  [Twitter Responsivo com ReactJS | UI Clone](https://www.youtube.com/watch?v=K-8z_4xvT3o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=6), créditos a [Rocketseat 🚀](https://github.com/Rocketseat)
