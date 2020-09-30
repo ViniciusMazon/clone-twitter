@@ -2,6 +2,8 @@
 
 Um clone do feed do Twitter, super responsivo.
 
+Link para demo: https://clone-twitter-viniciusmazon.netlify.app
+
 [![demo twitter clone](readme/twitter-thumb.png)](https://youtu.be/4ozP1vyW6mM "demo twitter clone")
 
 
